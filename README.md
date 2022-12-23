@@ -1,6 +1,6 @@
 Exercise from:
 
-[MDM Learning Area](https://github.com/mdn/learning-area)
+[MDM Learning Area](https://github.com/mdn/learning-area](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Strings) "Test your skills"
 
 1. The first task asks you to store a new string in a variable to go along wth the existing one, which contains the missing half of the famous quote. Call the new variable you add quoteEnd.
 
